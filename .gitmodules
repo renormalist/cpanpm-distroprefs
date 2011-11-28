@@ -1,0 +1,3 @@
+[submodule "cpanpm"]
+	path = cpanpm
+	url = git://github.com/andk/cpanpm.git
