@@ -1,0 +1,5 @@
+---
+comment: |
+  Hereby we disable cpanpm/distroprefs/02.NOREPORT.yml
+  because that prevents other distroprefs from matching.
+
