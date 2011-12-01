@@ -1,3 +1,6 @@
 [submodule "cpanpm"]
 	path = cpanpm
 	url = git://github.com/andk/cpanpm.git
+[submodule "dagolden/distroprefs"]
+	path = dagolden/distroprefs
+	url = https://github.com/dagolden/distroprefs.git
