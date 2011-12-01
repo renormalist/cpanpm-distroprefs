@@ -18,7 +18,6 @@ completely unattended, e.g. for Smoke Testing.
 
 * [CPAN distroprefs manual](http://search.cpan.org/~andk/CPAN/lib/CPAN.pm#Configuration_for_individual_distributions_%28Distroprefs%29)
 * [CPANTESTERS wiki](http://wiki.cpantesters.org/wiki/Distroprefs)
-* 
 
 ## UNIFIED PROJECT STRUCTURE
 
