@@ -7,3 +7,6 @@
 [submodule "devogon/distroprefs"]
 	path = devogon/distroprefs
 	url = git://gitorious.org/cpan-distroprefs/cpan-distroprefs.git
+[submodule "eserte/distroprefs"]
+	path = eserte/distroprefs
+	url = git://github.com/eserte/srezic-cpan-distroprefs.git
