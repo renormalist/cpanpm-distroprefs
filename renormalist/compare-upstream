@@ -1,0 +1,14 @@
+#! /bin/sh
+
+# Find distroprefs in upstream (ANDK/cpanpm) that
+# are the same, so we can delete them here. This 
+# usually happens when my upstream patches are 
+# accepted by ANDK.
+
+for i in distroprefs/*.* ; do 
+	j=$(basename $i)
+	if cmp -s ../cpanpm/distroprefs/$j $i ; then
+		echo "Duplicate: $i"
+	fi
+done
+
