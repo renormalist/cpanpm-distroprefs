@@ -1,0 +1,6 @@
+---
+comment: It has very slow tests. Because of its respectful test success I tihnk it is safe to skip.
+match:
+  distribution: "^VIPUL/Crypt-Random-\d"
+test:
+  commandline: "echo SKIPPING make test"
