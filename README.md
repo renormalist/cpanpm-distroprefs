@@ -45,3 +45,8 @@ subdirectory.
 I can imagine to extend the project with scripts to deploy distroprefs
 for different needs and maintain those scripts in the respective
 subdirs, to suit your demanding taste.
+
+## HOWTO
+
+* git submodule update --init
+* git submodule sync
