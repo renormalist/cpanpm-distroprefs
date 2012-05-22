@@ -1,5 +1,5 @@
 ---
 match:
-  distribution: "^LBAXTER/Sys-SigAction-\d"
+  distribution: '^LBAXTER/Sys-SigAction-\d'
 test:
   commandline: "echo SKIPPING make test"
