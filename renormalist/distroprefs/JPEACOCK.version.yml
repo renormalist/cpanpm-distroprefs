@@ -1,0 +1,11 @@
+---
+comment: |
+
+  version 0.99 works quite ok with Perl 5.9.x
+  so we don't want to die but just warn under
+  these old Perls.
+
+match:
+  distribution: "JPEACOCK/version-0.99.tar.gz"
+patches:
+  - "SCHWIGON/patches/version-0.99-SCHWIGON-allow-Perl-5.9.1-5.10.0-again-01.patch"
