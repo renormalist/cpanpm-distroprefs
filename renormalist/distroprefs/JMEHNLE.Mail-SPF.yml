@@ -1,0 +1,11 @@
+---
+comment: |
+
+  Mail::SPF explicitely tries to install to /usr/sbin.
+  This is not so clever for all those local user Perls.
+  We simply remove that install path mangling.
+
+match:
+  distribution: "JMEHNLE/mail-spf/Mail-SPF-v2.8.0.tar.gz"
+patches:
+  - "SCHWIGON/patches/Mail-SPF-v2.8.0-do-not-mangle-bin-dir-to-usr-sbin.patch"
