@@ -10,3 +10,6 @@
 [submodule "eserte/distroprefs"]
 	path = eserte/distroprefs
 	url = git://github.com/eserte/srezic-cpan-distroprefs.git
+[submodule "rurban/distroprefs"]
+	path = rurban/distroprefs
+	url = https://github.com/rurban/distroprefs.git
