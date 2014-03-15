@@ -13,3 +13,6 @@
 [submodule "rurban/distroprefs"]
 	path = rurban/distroprefs
 	url = https://github.com/rurban/distroprefs.git
+[submodule "cpantest-reported/distroprefs"]
+	path = cpantest-reported/distroprefs
+	url = https://github.com/cpan-testers/cpantest-reported.git
