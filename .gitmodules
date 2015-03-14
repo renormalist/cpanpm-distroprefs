@@ -4,9 +4,6 @@
 [submodule "dagolden/distroprefs"]
 	path = dagolden/distroprefs
 	url = https://github.com/dagolden/distroprefs.git
-[submodule "devogon/distroprefs"]
-	path = devogon/distroprefs
-	url = git://gitorious.org/cpan-distroprefs/cpan-distroprefs.git
 [submodule "eserte/distroprefs"]
 	path = eserte/distroprefs
 	url = git://github.com/eserte/srezic-cpan-distroprefs.git
