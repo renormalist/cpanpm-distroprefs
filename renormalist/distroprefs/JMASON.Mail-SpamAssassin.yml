@@ -2,7 +2,7 @@
 match:
   distribution: '^(JMASON|FELICITY|KMCGRAIL)/Mail-SpamAssassin-3.3.2'
 patches:
-  - "/home/ss5/patches/Mail-SpamAssassin-3.3.2-PERLFORMANCE-01.patch.gz"
+  - "SCHWIGON/patches/Mail-SpamAssassin-3.3.2-PERLFORMANCE-01.patch.gz"
 #
 # I only use this distropref for Perl::Formance and now I
 # also maintain a fork of SpamAssassin which no longer needs
