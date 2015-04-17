@@ -1,0 +1,5 @@
+---
+match:
+  distribution: '^(ANDYA)/Data-YAML-0.0.6'
+patches:
+  - "/home/ss5/patches/Data-YAML-0.0.6-PERLFORMANCE-01.patch.gz"
