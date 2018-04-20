@@ -1,0 +1,5 @@
+---
+match:
+  distribution: '^(BURAK)/Sys-Info-Base-0.7804'
+patches:
+  - "SCHWIGON/patches/Sys-Info-Base-0.7804-SCHWIGON-01.patch"
