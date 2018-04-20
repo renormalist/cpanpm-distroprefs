@@ -1,0 +1,5 @@
+---
+match:
+  distribution: '^(BURAK)/Sys-Info-Driver-Linux-0.7903'
+patches:
+  - "SCHWIGON/patches/Sys-Info-Driver-Linux-0.7903-SCHWIGON-01.patch"
