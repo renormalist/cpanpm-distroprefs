@@ -1,0 +1,5 @@
+---
+match:
+  distribution: '^(ANDK)/CPAN-2.16'
+patches:
+  - "SCHWIGON/patches/CPAN-2.16-SCHWIGON-01.patch"
