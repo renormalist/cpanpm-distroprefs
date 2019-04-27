@@ -1,0 +1,7 @@
+---
+match:
+  distribution: 'KMCGRAIL/SpamAssassin/Mail-SpamAssassin-3.4'
+pl:
+  expect:
+    - 'What email address or URL should be used in the suspected-spam report'
+    - "\n"
